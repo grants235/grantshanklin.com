@@ -1,0 +1,17 @@
+[20/May/2020:23:38:54] (ℹ️): WordPress Instance Info:
+[20/May/2020:23:38:54] (ℹ️): Home URL : http://192.168.1.154
+[20/May/2020:23:38:54] (ℹ️): Site URL : http://192.168.1.154
+[20/May/2020:23:38:54] (ℹ️): WordPress Version : 5.4.1
+[20/May/2020:23:38:54] (ℹ️): Onboarding Version : 1.8.2
+[20/May/2020:23:38:54] (ℹ️): Multisite : No
+[20/May/2020:23:38:54] (ℹ️): Server Info : Apache/2.4.38 (Debian)
+[20/May/2020:23:38:54] (ℹ️): PHP Version : 7.3.14-1~deb10u1
+[20/May/2020:23:38:54] (ℹ️): HTTPS : No
+[20/May/2020:23:38:54] (ℹ️): PHP Max Execution Time : 30
+[20/May/2020:23:38:54] (ℹ️): PHP Max Input Vars : 1000
+[20/May/2020:23:38:54] (ℹ️): Max Upload Size : 2097152
+[20/May/2020:23:38:54] (ℹ️): Plugins:
+[20/May/2020:23:38:54] (ℹ️): [PLUGIN] Elementor : v2.9.8 (Elementor.com)
+[20/May/2020:23:38:54] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.3 (ThemeIsle)
+[20/May/2020:23:38:54] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.8 (Themeisle)
+[20/May/2020:23:38:54] (ℹ️): [PLUGIN] Visualizer: Tables and Charts for WordPress : v3.4.3 (Themeisle)
